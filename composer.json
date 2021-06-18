@@ -1,0 +1,20 @@
+{
+    "name": "aldy-uinsu/uts",
+    "description": "UTS PBWL",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Aldy",
+            "email": "aldyalfiansyah1310@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+    
+}
